@@ -1,76 +1,122 @@
+```mdx
 <p align="center">
 <br />
-<a href="https://draze.io/"><img src="https://iili.io/FSjaiga.png" width="700" alt="draze"/></a>
+<a href="https://www.caset.network"><img src="https://iili.io/FSjaiga.png" width="700" alt="caset"/></a>
 <br />
 </p>
-<h1 align="center">Links</h1>
-<p align="center">
-<a href="https://draze.io/"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Website"/></a>
-<a href="https://draze.io/docs/introduction"><img alt="Docs" src="https://img.icons8.com/color/48/000000/document.png" width="40" height="40"/></a>
-<a href="https://x.com/DrazeLab"><img alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
-<a href="https://discord.gg/9sQpGp32mZ"><img alt="Join our Discord!" src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40"/></a>
-</p>
-<br />
 
-<h1 align="center">Draze: The Next-Gen Realm of Intelligent NFT Ownership</h1>
+# Caset Network
 
-<p align="center"><em>Fueling the future of NFTs, XP-driven rewards, multichain access, and gamified engagement.</em></p>
+**A next-generation Web3 ecosystem — AI + NFTs + Gaming + Multichain Infrastructure**
+
+> Caset Network fuses artificial intelligence, NFTs, and blockchain gaming into a unified, multichain experience. Play, Own, Grow, and Stake.
 
 ---
 
-Draze isn't just an NFT platform — it's a multichain, gamified Web3 ecosystem where identity meets innovation. Designed for creators, collectors, and community members, Draze makes NFT ownership **interactive**, **rewarding**, and **intelligent**.
+## Links
 
-Our mission is to create an environment where NFTs are not just collectibles but dynamic access passes to an ecosystem of **XP rewards**, **staking**, **games**, and **governance**.
-
-> Power up your Web3 journey with Draze — where your identity becomes your gateway.
+- 🌐 Website: [https://www.caset.network](https://www.caset.network)
+- 📘 Documentation: [https://caset-network.gitbook.io/caset-network/](https://caset-network.gitbook.io/caset-network/)
+- 🐦 Twitter / X: [https://x.com/casetnetwork](https://x.com/casetnetwork)
+- 💬 Discord: [https://discord.com/invite/8wnGNVAKcg](https://discord.com/invite/8wnGNVAKcg)
 
 ---
 
-### 🔑 Core Features
+## 🚀 What is Caset Network?
 
-- **🎟️ Draze Passport**  
-  Claim your **Draze Passport** to unlock:
-  - Faucet Access  
-  - Daily XP Claims  
-  - Bonus Airdrops  
+Caset Network is a gamified Web3 platform built around dynamic, AI-enhanced NFTs and a tiered identity system (Caset ID). Users mint Caset ID NFTs to access faucet rewards, stake for benefits, and unlock evolving utilities for their NFTs. The project plans to launch **Caset Chain**, an OP Stack–based Layer 2 blockchain focused on low-cost, high-speed AI interactions, NFT minting, and smart contract deployment.
 
-- **🪪 Draze ID**  
-  Upgrade to **Draze ID** for full access:
-  - All Passport Benefits  
-  - Staking Access  
-  - Spin to Win Rewards  
-  - Draze Club (Game Zone) Access  
-  - Governance & Voting Rights  
+---
 
-- **📈 XP-Based Leaderboards**  
-  Earn XP through daily actions and compete for ranks to qualify for future airdrops and token allocations.
+## 🔑 Core Features
 
-- **🎮 Gamified Engagement**  
-  Access "Spin to Win", participate in games at Draze Club, and collect XP and prizes.
+- **🎫 Caset ID (NFT Passes)**  
+  Mint a Caset ID NFT to access faucet rewards, daily XP accrual, and platform features.
 
-- **📊 Free Web3 Analytics**  
-  Track your wallet, XP, rank, and eligibility in real-time with no cost.
+- **🪙 $CST Token Utility**  
+  $CST powers staking, rewards, governance, and in-platform incentives.
+
+- **🎮 Gamified Mechanics & XP System**  
+  Earn XP through actions; climb leaderboards to qualify for airdrops, token allocations, and exclusive drops.
+
+- **🧠 AI-Generated & Evolving NFTs**  
+  NFTs that can evolve or gain new attributes via integrated AI systems.
+
+- **🛒 Native Marketplace**  
+  Trade NFTs, list creations, and interact with collector-driven mechanics.
 
 - **🌐 Multichain Support**  
-  Draze operates across leading EVM and emerging chains including Somnia, Monad, Base, and more.
+  Designed for EVM-compatible chains such as Ethereum, BNB, Polygon, and future integrations.
 
-- **🛠 Creator Tools (Coming Soon)**  
-  Empowering creators with intuitive minting, personalization, and marketplace-ready tools.
-
----
-
-### 🚀 Why Draze?
-
-- **Simplified NFT Experience**: No technical hassle. Just mint, earn, and play.
-- **Future-Ready Vision**: With plans for its own blockchain, Draze is evolving toward a more intelligent, AI-powered Web3.
-- **Community-Driven**: Governance access, loyalty rewards, and a growing ecosystem of active contributors.
+- **⚙️ Staking & Rewards**  
+  Stake $CST and NFTs to unlock additional benefits, boosts, and access tiers.
 
 ---
 
-### 💬 Join the Movement
+## 🧩 Core Components
 
-Whether you're here to **collect**, **stake**, **play**, or **build**, Draze empowers you to take control of your Web3 identity. It’s time to go beyond ownership — into **interaction, rewards, and recognition.**
+1. **Identity Layer** — Caset ID NFTs that act as access passes.  
+2. **Rewards Engine** — Faucet system and XP-based distribution.  
+3. **AI Toolkit** — Tools for generative NFTs and dynamic metadata.  
+4. **Marketplace** — Buying, selling, and secondary mechanisms.  
+5. **Caset Chain (Roadmap)** — OP Stack Layer 2 for scalable interactions.
 
-Ready to begin?
+---
 
-👉 [https://draze.io](https://draze.io)
+## 📈 Roadmap (High Level)
+
+- **Phase 0** — Testnet features: Faucet, Caset ID minting, basic staking.  
+- **Phase 1** — Mainnet integrations, marketplace launch, XP leaderboards.  
+- **Phase 2** — AI NFT tooling, improved game mechanics, token utility expansion.  
+- **Phase 3** — Caset Chain launch (OP Stack L2) with low-cost minting and native smart contracts.
+
+---
+
+## 🧾 Tokenomics (Summary)
+
+- Token: **$CST**  
+- Use cases: staking, rewards, governance, marketplace fees, and in-game utilities.
+
+> For complete and up-to-date tokenomics see the official docs.
+
+---
+
+## 🛠 Technology Stack
+
+- EVM-compatible smart contracts  
+- AI/ML pipelines for generative NFT content  
+- Frontend: React / Web3 providers (recommended)  
+- Layer 2: OP Stack (planned)
+
+---
+
+## 🙌 Contributing
+
+We welcome builders, artists, and devs.
+
+1. Fork this repository.  
+2. Create a feature branch: `git checkout -b feat/your-feature`.  
+3. Commit your changes: `git commit -m "feat: add ..."`.  
+4. Push and open a Pull Request.
+
+Please follow standard contribution guidelines and include tests where appropriate.
+
+---
+
+## 📚 Resources
+
+- Website: [https://www.caset.network](https://www.caset.network)  
+- Documentation: [https://caset-network.gitbook.io/caset-network/](https://caset-network.gitbook.io/caset-network/)  
+- Twitter / X: [https://x.com/casetnetwork](https://x.com/casetnetwork)  
+- Discord: [https://discord.com/invite/8wnGNVAKcg](https://discord.com/invite/8wnGNVAKcg)
+
+---
+
+## 🧾 License
+
+Specify your license (e.g., MIT).
+
+---
+
+*This README.mdx was generated to create a GitHub-ready project landing for Caset Network based on the project's public documentation.*
+```
