@@ -8,7 +8,7 @@
 <a href="https://www.caset.network"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Website"/></a>
 <a href="https://caset-network.gitbook.io/caset-network/untitled"><img alt="Docs" src="https://img.icons8.com/color/48/000000/document.png" width="40" height="40"/></a>
 <a href="https://x.com/CasetNetwork"><img alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
-<a href="https://discord.gg/"><img alt="Join our Discord!" src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40"/></a>
+<a href="https://discord.com/invite/8wnGNVAKcg"><img alt="Join our Discord!" src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40"/></a>
 </p>
 <br />
 
