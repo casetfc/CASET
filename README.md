@@ -1,122 +1,68 @@
-```mdx
 <p align="center">
 <br />
 <a href="https://www.caset.network"><img src="https://iili.io/FSjaiga.png" width="700" alt="caset"/></a>
 <br />
 </p>
+<h1 align="center">Links</h1>
+<p align="center">
+<a href="https://www.caset.network"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Website"/></a>
+<a href="https://www.caset.network/docs"><img alt="Docs" src="https://img.icons8.com/color/48/000000/document.png" width="40" height="40"/></a>
+<a href="https://x.com/CasetNetwork"><img alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
+<a href="https://discord.gg/"><img alt="Join our Discord!" src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40"/></a>
+</p>
+<br />
 
-# Caset Network
+<h1 align="center">Caset Network — Play, Own, Grow, & Stake in the AI-Powered Web3 Era</h1>
 
-**A next-generation Web3 ecosystem — AI + NFTs + Gaming + Multichain Infrastructure**
-
-> Caset Network fuses artificial intelligence, NFTs, and blockchain gaming into a unified, multichain experience. Play, Own, Grow, and Stake.
-
----
-
-## Links
-
-- 🌐 Website: [https://www.caset.network](https://www.caset.network)
-- 📘 Documentation: [https://caset-network.gitbook.io/caset-network/](https://caset-network.gitbook.io/caset-network/)
-- 🐦 Twitter / X: [https://x.com/casetnetwork](https://x.com/casetnetwork)
-- 💬 Discord: [https://discord.com/invite/8wnGNVAKcg](https://discord.com/invite/8wnGNVAKcg)
+<p align="center"><em>A next-generation ecosystem blending AI, NFTs, gaming, and multichain blockchain infrastructure.</em></p>
 
 ---
 
-## 🚀 What is Caset Network?
+Caset Network is redefining Web3 by fusing **Artificial Intelligence**, **NFTs**, and **Blockchain Gaming** into one seamless multichain ecosystem. Built for the future of digital identity, ownership, and decentralized gaming, Caset empowers players and creators to truly **Play, Own, Grow, and Stake**.
 
-Caset Network is a gamified Web3 platform built around dynamic, AI-enhanced NFTs and a tiered identity system (Caset ID). Users mint Caset ID NFTs to access faucet rewards, stake for benefits, and unlock evolving utilities for their NFTs. The project plans to launch **Caset Chain**, an OP Stack–based Layer 2 blockchain focused on low-cost, high-speed AI interactions, NFT minting, and smart contract deployment.
+Caset isn’t just a platform — it's an intelligent digital universe where assets evolve, grow in utility, and unlock experiences across gaming, AI, and decentralized identity.
 
----
-
-## 🔑 Core Features
-
-- **🎫 Caset ID (NFT Passes)**  
-  Mint a Caset ID NFT to access faucet rewards, daily XP accrual, and platform features.
-
-- **🪙 $CST Token Utility**  
-  $CST powers staking, rewards, governance, and in-platform incentives.
-
-- **🎮 Gamified Mechanics & XP System**  
-  Earn XP through actions; climb leaderboards to qualify for airdrops, token allocations, and exclusive drops.
-
-- **🧠 AI-Generated & Evolving NFTs**  
-  NFTs that can evolve or gain new attributes via integrated AI systems.
-
-- **🛒 Native Marketplace**  
-  Trade NFTs, list creations, and interact with collector-driven mechanics.
-
-- **🌐 Multichain Support**  
-  Designed for EVM-compatible chains such as Ethereum, BNB, Polygon, and future integrations.
-
-- **⚙️ Staking & Rewards**  
-  Stake $CST and NFTs to unlock additional benefits, boosts, and access tiers.
+> Step into a smarter Web3 world — where your digital assets learn, evolve, and earn with you.
 
 ---
 
-## 🧩 Core Components
+### 🔑 Core Features
 
-1. **Identity Layer** — Caset ID NFTs that act as access passes.  
-2. **Rewards Engine** — Faucet system and XP-based distribution.  
-3. **AI Toolkit** — Tools for generative NFTs and dynamic metadata.  
-4. **Marketplace** — Buying, selling, and secondary mechanisms.  
-5. **Caset Chain (Roadmap)** — OP Stack Layer 2 for scalable interactions.
+- **🧠 AI-Powered NFT Ecosystem**  
+  Experience intelligent NFTs that evolve, unlock new attributes, and offer dynamic utilities powered by AI.
 
----
+- **🎮 Blockchain Gaming Hub**  
+  Access a growing catalog of play-to-earn and AI-enhanced Web3 games.
 
-## 📈 Roadmap (High Level)
+- **⚡ Multichain Access Layer**  
+  Caset operates across leading EVM and emerging networks — enabling universal asset access and cross-chain utility.
 
-- **Phase 0** — Testnet features: Faucet, Caset ID minting, basic staking.  
-- **Phase 1** — Mainnet integrations, marketplace launch, XP leaderboards.  
-- **Phase 2** — AI NFT tooling, improved game mechanics, token utility expansion.  
-- **Phase 3** — Caset Chain launch (OP Stack L2) with low-cost minting and native smart contracts.
+- **📈 Intelligent Rewards System**  
+  Earn tokens, bonuses, and ranks via gameplay, quests, staking, and platform participation.
 
----
+- **🎟️ Caset ID Access Pass**  
+  Your all-in-one digital access identity for rewards, quests, staking, and future AI features.
 
-## 🧾 Tokenomics (Summary)
+- **🪙 Staking & Yield Engine**  
+  Stake assets, earn rewards, and participate in gamified earning models.
 
-- Token: **$CST**  
-- Use cases: staking, rewards, governance, marketplace fees, and in-game utilities.
-
-> For complete and up-to-date tokenomics see the official docs.
+- **🛠 Creator Tools (Coming Soon)**  
+  Mint AI-powered NFTs, build AI-enhanced game assets, and deploy marketplace-ready collections.
 
 ---
 
-## 🛠 Technology Stack
+### 🚀 Why Caset?
 
-- EVM-compatible smart contracts  
-- AI/ML pipelines for generative NFT content  
-- Frontend: React / Web3 providers (recommended)  
-- Layer 2: OP Stack (planned)
-
----
-
-## 🙌 Contributing
-
-We welcome builders, artists, and devs.
-
-1. Fork this repository.  
-2. Create a feature branch: `git checkout -b feat/your-feature`.  
-3. Commit your changes: `git commit -m "feat: add ..."`.  
-4. Push and open a Pull Request.
-
-Please follow standard contribution guidelines and include tests where appropriate.
+- **AI-Optimized Web3 Experience** — Smarter utilities, adaptive NFTs, and next-gen ownership.
+- **Player-Driven Value Layer** — Own your assets, grow them, and leverage them across games and metaverse zones.
+- **Future-Focused Development** — AI integrations, multichain scalability, and evolving gaming economy.
 
 ---
 
-## 📚 Resources
+### 💬 Join the Evolution
 
-- Website: [https://www.caset.network](https://www.caset.network)  
-- Documentation: [https://caset-network.gitbook.io/caset-network/](https://caset-network.gitbook.io/caset-network/)  
-- Twitter / X: [https://x.com/casetnetwork](https://x.com/casetnetwork)  
-- Discord: [https://discord.com/invite/8wnGNVAKcg](https://discord.com/invite/8wnGNVAKcg)
+Whether you're a **gamer**, **collector**, **creator**, or **builder**, Caset gives you the tools and world to thrive in the AI-powered Web3 future.
 
----
+Your journey into the intelligent digital universe begins here.
 
-## 🧾 License
-
-Specify your license (e.g., MIT).
-
----
-
-*This README.mdx was generated to create a GitHub-ready project landing for Caset Network based on the project's public documentation.*
-```
+👉 https://www.caset.network
