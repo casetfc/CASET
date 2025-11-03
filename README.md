@@ -12,7 +12,7 @@
 </p>
 <br />
 
-<h1 align="center">Caset Network — Play, Own, Grow, & Stake in the AI-Powered Web3 Era</h1>
+<h1 align="center">Caset — NFTs & Stake in the AI-Powered Web3 Era</h1>
 
 <p align="center"><em>A next-generation ecosystem blending AI, NFTs, gaming, and multichain blockchain infrastructure.</em></p>
 
@@ -59,10 +59,6 @@ Caset isn’t just a platform — it's an intelligent digital universe where ass
 
 ---
 
-### 💬 Join the Evolution
 
-Whether you're a **gamer**, **collector**, **creator**, or **builder**, Caset gives you the tools and world to thrive in the AI-powered Web3 future.
-
-Your journey into the intelligent digital universe begins here.
 
 👉 https://www.caset.network
