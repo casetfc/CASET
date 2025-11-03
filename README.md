@@ -1,6 +1,6 @@
 <p align="center">
 <br />
-<a href="https://www.caset.network"><img src="https://iili.io/FSjaiga.png" width="700" alt="caset"/></a>
+<a href="https://www.caset.network"><img src="https://i.ibb.co.com/Fbzmmc1N/84-Gir-WSI-400x400.jpg" width="700" alt="caset"/></a>
 <br />
 </p>
 <h1 align="center">Links</h1>
